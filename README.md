@@ -10,8 +10,9 @@
 
 •	Kaggle
 
-TOOLS USED
+### TOOLS USED
 •	Microsoft Excel: Used for data analysis, pivot tables, and interactive visualizations
+
 •	PivotCharts & Slicers: Employed to create dynamic visual representations of trends in sales and profit
 
 STAGES AND PROCEDURE
