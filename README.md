@@ -23,10 +23,15 @@
    
 ### BUSINESS QUESTIONS
 •	Which product categories generate the most revenue?
+
 •	How do sales trends vary across different regions?
+
 •	What impact does discounting have on profitability?
+
 •	Which shipping mode is most preferred by customers?
+
 •	Which product subcategories have the highest and lowest profits?
+
 •	How can the company improve sales and profitability?
 
 ### INSIGHTS 
