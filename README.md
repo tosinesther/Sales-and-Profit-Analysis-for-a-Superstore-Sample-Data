@@ -15,13 +15,13 @@
 
 •	PivotCharts & Slicers: Employed to create dynamic visual representations of trends in sales and profit
 
-STAGES AND PROCEDURE
+### STAGES AND PROCEDURE
 1.	Data Collection: Imported the dataset from kaggle into Excel.
 2.	Data Cleaning: Ensured data accuracy by removing duplicates, and standardizing data formats.
 3.	Visualization: Used PivotCharts, slicers, and interactive dashboards to summarize trends and patterns.
 4.	Insights and Recommendations: Derived key business insights and provided actionable recommendations.
    
-BUSINESS QUESTIONS
+### BUSINESS QUESTIONS
 •	Which product categories generate the most revenue?
 •	How do sales trends vary across different regions?
 •	What impact does discounting have on profitability?
@@ -29,7 +29,7 @@ BUSINESS QUESTIONS
 •	Which product subcategories have the highest and lowest profits?
 •	How can the company improve sales and profitability?
 
-INSIGHTS 
+### INSIGHTS 
 •	Overall, the Technology category generated the highest profit ($145,454.95) for the business. Office Supplies also performed well, contributing $122,490.80 in profit. However, the Furniture category generated the lowest profit, with only $18,451.27. 
 
 •	Sales trends vary across different regions, with the West region generating the highest sales ($725,457.82), followed by the East region with $678,781.24. The Central region recorded moderate sales of $501,239.89, while the South region had the lowest sales, contributing only $391,721.91. 
@@ -40,9 +40,12 @@ INSIGHTS
 
 •	The product subcategory with the highest profit is Phones, generating $44,515.73 in profit. This indicates that phones are a highly profitable product line. The subcategory with the lowest profit is Tables, which has a loss of -$17,725.48. Additionally, Bookcases (-$3,472.56) and Supplies (-$1,189.10) also recorded losses, suggesting that these items may have high costs, low margins, or significant discounting.
 
-RECOMMENDATIONS
+### RECOMMENDATIONS
 •	Increase focus on high-performing regions and segments.
+
 •	Adjust pricing strategies for low-profit subcategories.
+
 •	Optimize shipping methods to balance cost and efficiency.
+
 •	Reduce discounts on highly profitable categories to maximize revenue.
 
