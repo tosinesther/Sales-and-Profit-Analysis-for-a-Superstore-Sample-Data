@@ -1,10 +1,13 @@
 # Sales-and-Profit-Analysis-for-a-Superstore-Sample-Data
 ### OBJECTIVE
 •	The goal of this project is to analyze sales and profit trends across different segments, regions, categories, and subcategories of products. 
+
 •	Determine the impact of discounts on sales and profit margins.
+
 •	Provide strategic recommendations to optimize sales and profitability.
 
-# DATA SOURCE
+### DATA SOURCE
+
 •	Kaggle
 
 TOOLS USED
