@@ -34,6 +34,11 @@
 
 •	How can the company improve sales and profitability?
 
+## Overview
+
+![Screenshot 2025-06-23 191945](https://github.com/user-attachments/assets/e6d14949-807d-489e-b6e6-1e7519126178)
+
+
 ### INSIGHTS 
 •	Overall, the Technology category generated the highest profit ($145,454.95) for the business. Office Supplies also performed well, contributing $122,490.80 in profit. However, the Furniture category generated the lowest profit, with only $18,451.27. 
 
